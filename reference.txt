@@ -1,0 +1,14 @@
+https://m.blog.naver.com/ekbae98/221374841010
+
+https://kibua20.tistory.com/148
+
+https://gist.github.com/connormanning/41efa6075515019e499c
+
+https://github.com/jgaa/restc-cpp
+
+//http 응답
+
+http://jason-heo.github.io/sys/admin/2016/09/11/curl-http-code.html
+
+//파일 읽기
+https://cs10.tistory.com/21
